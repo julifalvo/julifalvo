@@ -1,4 +1,5 @@
 #  Hey, I'm Julián
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5eb7f10b-472e-4073-9757-322ff4bb63eb" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Cloud+Architect;Agentic+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
